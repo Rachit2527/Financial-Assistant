@@ -14,13 +14,27 @@ The page has these features:
 ## Financial Sentiment Analysis with Text Generation
 
 ![Financial Sentiment Analysis with Text Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3019).png?raw=true)
 
-Music Recommendation System:
 
-![Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2970).png?raw=true)
 
-Resume Category Prediction
-![Resume Category Prediction](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2971).png?raw=true)
+
+
+## Generative AI for Personalized Financial Advice
+
+![Generative AI for Personalized Financial Advice](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3020).png?raw=true)
+
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3021).png?raw=true)
+
+## AI Driven Financial Report Generation
+![AI Driven Financial Report Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3022).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3023).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3024).png?raw=true)
+
+## Credit Risk Assessment
+![Credit Risk Assessment](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3025).png?raw=true)
+
+
 
 ## Key Features:
 
