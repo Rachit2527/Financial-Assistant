@@ -7,13 +7,13 @@ Developed an AI-powered platform with multiple financial models aimed at enhanci
 The page has these features:
 ![Features](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3027).png?raw=true)
 
-Text Similarity Score Predictor:
+## Financial Question Answering
 
-![Text Similarity](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2968).png?raw=true)
+![Financial Question Answering](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3017).png?raw=true)
 
-Book Recommendation System:
+## Financial Sentiment Analysis with Text Generation
 
-![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2969).png?raw=true)
+![Financial Sentiment Analysis with Text Generation](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3018).png?raw=true)
 
 Music Recommendation System:
 
