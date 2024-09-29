@@ -55,7 +55,7 @@ Credit Risk Assessment:
 Designed a credit risk evaluation model to predict the creditworthiness of a customer based on factors such as financial history, income, and liabilities. The system provides a risk score and suggestions for risk mitigation.
 
 
-##Technologies Used:
+## Technologies Used:
 
 --LangChain for prompt engineering and building conversational AI pipelines.
 
