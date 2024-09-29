@@ -1,1 +1,1 @@
-| AI-Powered Financial Insights Platform
+* AI-Powered Financial Insights Platform
