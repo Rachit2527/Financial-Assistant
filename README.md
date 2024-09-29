@@ -33,6 +33,7 @@ The page has these features:
 
 ## Credit Risk Assessment
 ![Credit Risk Assessment](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3025).png?raw=true)
+![](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3026).png?raw=true)
 
 
 
