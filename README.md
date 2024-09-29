@@ -3,6 +3,25 @@
 ## Description:
 Developed an AI-powered platform with multiple financial models aimed at enhancing decision-making, automating reports, and providing personalized advice. Integrated state-of-the-art generative AI models using HuggingFace's Mistral-7B-Instruct-v0.3 and the LangChain framework for seamless conversational capabilities.
 
+## OVERVIEW
+The home page looks like this
+![Home Page](https://github.com/Rachit2527/LEARNIFY/blob/master/Home.png?raw=true)
+
+Text Similarity Score Predictor:
+
+![Text Similarity](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2968).png?raw=true)
+
+Book Recommendation System:
+
+![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2969).png?raw=true)
+
+Music Recommendation System:
+
+![Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2970).png?raw=true)
+
+Resume Category Prediction
+![Resume Category Prediction](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2971).png?raw=true)
+
 ## Key Features:
 
 Automatic Financial Question Answering (QA) System:
