@@ -4,8 +4,8 @@
 Developed an AI-powered platform with multiple financial models aimed at enhancing decision-making, automating reports, and providing personalized advice. Integrated state-of-the-art generative AI models using HuggingFace's Mistral-7B-Instruct-v0.3 and the LangChain framework for seamless conversational capabilities.
 
 ## OVERVIEW
-The home page looks like this
-![Home Page](https://github.com/Rachit2527/LEARNIFY/blob/master/Home.png?raw=true)
+The page has these features:
+![Features](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(3027).png?raw=true)
 
 Text Similarity Score Predictor:
 
