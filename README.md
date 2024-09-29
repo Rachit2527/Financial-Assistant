@@ -5,7 +5,7 @@ Developed an AI-powered platform with multiple financial models aimed at enhanci
 
 ## OVERVIEW
 The page has these features:
-![Features](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(3027).png?raw=true)
+![Features](https://github.com/Rachit2527/Financial-Assistant/blob/main/Screenshot%20(3027).png?raw=true)
 
 Text Similarity Score Predictor:
 
